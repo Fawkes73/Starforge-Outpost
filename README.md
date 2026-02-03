@@ -64,7 +64,6 @@ Assets/
 - `BuildingDataSO` defines building size, cost, resource generation, and crafting recipes.
 - `ItemDataSO` defines resources and craftable items (including default color).
 - `RecipeDataSO` defines crafting inputs, outputs, craft time, and color presets.
-- ScriptableObject assets are authored in the Unity editor and stored under `Assets/ScriptableObjects/` (see the README there for starter asset suggestions).
 
 ### Core Systems
 - `GameManager` controls game state, pause, and game over.
